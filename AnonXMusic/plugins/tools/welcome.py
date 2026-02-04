@@ -118,10 +118,8 @@ async def auto_state(_, message):
                 await message.reply_text(f"єηαʙʟєᴅ ᴡєʟᴄᴏϻє ηᴏτɪғɪᴄατɪᴏη ɪη {message.chat.title}")
         else:
             await message.reply_text(usage)
-else:
+        else:
         await message.reply("ѕᴏʀʀʏ ᴏηʟʏ αᴅϻɪηѕ ᴄαη єηαʙʟє ᴡєʟᴄᴏϻє ηᴏτɪғɪᴄατɪᴏη!")
-
-
 
 @app.on_chat_member_updated(filters.group, group=-3)
 async def greet_new_member(_, member: ChatMemberUpdated):
