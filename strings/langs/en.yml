@@ -172,9 +172,9 @@ queue_5 : "❖ ᴛʜєʀє's σηʟʏ σηє ǫυєυєᴅ ᴛʀᴧᴄᴋ ɪη �
 queue_6 : "<b>❖ ᴅυʀᴧᴛɪση :</b> υηᴋησᴡη ᴅυʀᴧᴛɪση sᴛʀєᴧϻ\n\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} Ꭾʟαʏєʀ</b>\n\n❖ <b>δᴛʀєαϻɪηg :</b> {1}\n\n❖ <b> δᴛʀєαϻ τʏρє ᰔ:</b> {2}\n❖ <b>Ʀєǫυєsᴛєᴅ Ᏼʏ ᰔ:</b> {3}\n❖ {4}"
-l
-stream_1 : "<b><blockquote>✦ δᴛᴧʀᴛєᴅ δᴛʀєᴧϻɪηɢ ➳ </blockquote></b>\n<blockquote><b>✦ τɪτʟє ➳  </b> <a href={0}>{1}</a>\n<b>✦ Ꭰυʀᴧᴛɪση ➳  </b> {2} ϻɪηυᴛєs\n<b>✦ Ʀєǫυєsᴛєᴅ Ᏼʏ ➳  </b> {3}</blockquote>\n<b><blockquote> ⌯ Ꮇαᴅє ᏼʏ ⌯➛ </b><a href='https://t.me/botsgraveyard'> ˹Ᏼ꯭ᴏ꯭ᴛ Ᏻ꯭ʀᴀ꯭ᴠᴇ꯭ʏ꯭ᴀʀ꯭ᴅ˼ </a>\n"
-stream_2 : "<b><blockquote>✦ δᴛᴧʀᴛєᴅ δᴛʀєᴧϻɪηɢ ➳ </blockquote></b>\n<blockquote><b>✦ δᴛʀєαϻ τʏρє ➳  </b> ɭɪᴠє δᴛʀєαϻ [ᴜʀʟ]\n<b>✦ Ʀєǫυєsᴛєᴅ Ᏼʏ ➳  </b> {0}<blockquote>"
+
+stream_1 : "<b><blockquote>✦ δᴛᴧʀᴛєᴅ δᴛʀєᴧϻɪηɢ ➳ :</blockquote></b>\n<blockquote><b>✦ τɪτʟє ➳ :</b> <a href={0}>{1}</a>\n<b>✦ Ꭰυʀᴧᴛɪση ➳ :</b> {2} ϻɪηυᴛєs\n<b>✦ Ʀєǫυєsᴛєᴅ Ᏼʏ ➳ :</b> {3}</blockquote>\n<b><blockquote> ⌯ Ꮇαᴅє ᏼʏ ⌯➛ </b><a href='https://t.me/BotsGraveyard'> ˹Ᏼ꯭ᴏ꯭ᴛ Ᏻ꯭ʀᴀ꯭ᴠᴇ꯭ʏ꯭ᴀʀ꯭ᴅ˼ </a>\n"
+stream_2 : "<b><blockquote>✦ δᴛᴧʀᴛєᴅ δᴛʀєᴧϻɪηɢ ➳ :</blockquote></b>\n<blockquote><b>✦ δᴛʀєαϻ τʏρє ➳ :</b> ɭɪᴠє δᴛʀєαϻ [ᴜʀʟ]\n<b>✦ Ʀєǫυєsᴛєᴅ Ᏼʏ ➳ :</b> {0}<blockquote>"
 
 CLOSE_BUTTON : "⌯ ᴄʟσsє ⌯"
 BACK_BUTTON : "⌯ ʙᴧᴄᴋ ⌯"
